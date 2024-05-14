@@ -1,0 +1,26 @@
+JAVASOFT SHIPS JAVA 1.0
+Programming environment available free for developers
+Palo Alto, CA - January 23, 1996 - JavaSoft, the newly-formed operating company of Sun Microsystems, Inc., today announced that the Java™ 1.0 programming environment is now available for download at http://java.sun.com.
+
+"Java's write-once-run-everywhere capability along with its easy accessibility have propelled the software and Internet communities to embrace it as the de facto standard for writing applications for complex networks," said Alan Baratz, JavaSoft's newly appointed president. "We're delighted to invite developers to download Java 1.0 immediately and start building the next killer application."
+
+"Improving Java to create this strong 1.0 general release has been a great achievement for our team," said Ruth Hennigar, general manager of Java language and applications, JavaSoft. "Since our first alpha release to the web in March we have received a lot of developer feedback and have improved functionality and reliability. This release incorporates the components that software developers have told us they need -- the Java Applet Viewer for running and testing applets; the Java Compiler; a prototype debugger and the Java Virtual Machine to run Java-based programs. We've also included class libraries for graphics, audio, animation and networking."
+
+Since its announcement in May 1995, Java has been widely used to create hundreds of "applets" or small applications which can be downloaded across a network and can run locally. Companies as diverse as National Semiconductor, Precision Systems, Inc. and Starwave have already announced significant Java-based programs.
+
+Available for free over the Internet
+Developers will continue to have access to Java 1.0, free of charge. It is available for download at http://java.sun.com. In addition, a number of companies have licensed the Java source code to enhance their browsers, create development tools for Java programming, and to port the Java Virtual Machine to various operating systems. To date, 15 companies, including IBM, SGI, Netscape, Oracle and Toshiba have licensed Java Source, and Microsoft has announced that it intends to license Java.
+Java 1.0 is available for the Windows 95 and NT on Intel® and Solaris™ on SPARC™ platforms today. Java 1.0 for Mac OS 7.5 is expected by the end of the first quarter of 1996.
+
+"JavaSoft has targeted these four platforms that are all critical to Java's success," said Ruth Hennigar. "In addition, ports to other significant operating systems are underway outside of JavaSoft. For example, IBM has announced it would build ports for Microsoft Windows 3.1 and OS/2, and OSF has announced that it will build ports for additional versions of the UNIX® operating system."
+
+Java-based applications are platform-independent; only the Java Virtual Machine needs to be ported to each platform. It acts as an interpreter between an end user's computer and the Java-based application. An application written in the Java environment can run anywhere, ending the need for porting applications to multiple platforms. The Java Virtual Machine is currently available to end users through JavaSoft's HotJava™, Netscape Navigator 2.0™ web browsers and will be available in Oracle's PowerBrowser™ and Spyglass' Mosaic™ browsers.
+
+JavaSoft, headquartered in Palo Alto, is an operating company of Sun Microsystems Inc. The company's mission is to develop, market and support the Java technology and products based on it. Java supports networked applications and enables developers to write applications once that will run on any machine. JavaSoft develops applications, tools and systems platforms to further enhance Java as the programming standard for complex networks such as the Internet and corporate intranets.
+
+With annual revenues of more than $6 billion, Sun Microsystems, Inc. provides products and services that enable customers to build and maintain open network computing environments. Widely recognized as a proponent of open standards, the company is involved in the design, manufacture and sale of products, technologies and services for commercial and technical computing. Sun's SPARC™ workstations, multiprocessing servers, SPARC microprocessors, Solaris operating software and ISO-certified service organization each rank No. 1 in the UNIX® industry. Sun's Java™ platform-independent programming environment, provides a comprehensive solution to the challenge of programming for complex networks, including the Internet. Sun Microsystems was founded in 1982, and is headquartered in Mountain View, California.
+
+Sun, the Sun logo, Sun Microsystems, The Network is the Computer, Solaris, Java, HotJava and JavaSoft are trademarks or registered trademarks of Sun Microsystems, Inc. in the United States and in other countries. All SPARC trademarks are used under license and are trademarks or registered trademarks of SPARC International, INC. in the United States and other countries. Products bearing SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc. UNIX is a registered trademark in the United States and in other countries exclusively licensed through X/Open Company, Ltd. Intel is a registered trademark of Intel Corporation.
+ 
+ 
+Copyright 1994-2006 Sun Microsystems, Inc.
